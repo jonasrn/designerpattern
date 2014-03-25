@@ -1,6 +1,6 @@
 package strategy;
 
 public class Novo {
-	private String teste;
+	private String teste;//asdf
 
 }
