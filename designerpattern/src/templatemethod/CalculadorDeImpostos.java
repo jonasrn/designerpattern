@@ -1,4 +1,4 @@
-package chainofresponsibility;
+package templatemethod;
 
 public class CalculadorDeImpostos {
 
